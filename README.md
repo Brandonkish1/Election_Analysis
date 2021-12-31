@@ -42,4 +42,7 @@ The analysis of the election show that:
   - Diane DeGette, who received 73.8% of the vote and 272,892 votes.
 
 ## Challenge Summary
-This python script can be used to quickly tabulate voting results for any election.
+This python script can be used to quickly tabulate voting results for any election. Below are some edits that can be made to the python code to make it better suited for any election scenario.
+
+### Edit 1
+A user input prompt could be added to determine the type of election (e.g. County, City, District). That user input could be assigned to a variable (election_type). The election type variable could be used in the output. This makes the output dynamic instead of hardcoding the text.
