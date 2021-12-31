@@ -30,7 +30,8 @@ The analysis of the election show that:
   - Arapahoe County cast 24,801 votes which was 6.7% of the total
 - The highest voter turnout was in:
   - Denver County, where 82.8% of votes were cast and 306,055 votes.
-- The candidates were:  - Casper Stockham
+- The candidates were:
+  - Casper Stockham
   - Diane DeGette
   - Raymon Anthony Doanne 
 - The candidate results were:
