@@ -48,6 +48,28 @@ This python script can be used to quickly tabulate voting results for any electi
 A user input prompt could be added to determine the type of election (e.g. County, City, District). That user input could be assigned to a variable (election_type). The election type variable could be used in the output. This makes the output dynamic instead of hardcoding the text.
 
 #### Example User Input Edit 1
+The user input would be put at the beginning before opening the fie.
+
 ```
 # User Input to Declare Election Type
 election_type = input("What kind of election is being analyzed? (County, City, District, etc.")
+```
+
+#### Example Output Edit 1
+Here is a sample of the code from one of the output statements. Instead outputting the text "County" the election_type variable is used.
+
+```
+# Save the results to our text file.
+with open(file_to_save, "w") as txt_file:
+
+    # Print the final vote count (to terminal)
+    election_results = (
+        f"\nElection Results\n"
+        f"-------------------------\n"
+        f"Total Votes: {total_votes:,}\n"
+        f"-------------------------\n\n"
+        f"{election_type} Votes:\n")
+    print(election_results, end="")
+
+    txt_file.write(election_results)
+    ```
