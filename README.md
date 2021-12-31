@@ -24,11 +24,11 @@ The analysis of the election show that:
   - Jefferson
   - Denver
   - Arapahoe
--The county results were:
-  -Jefferson County cast 38,855 votes which was 10.5% of the total
-  -Denver County cast 306,055 votes which was 82.8% of the total
-  -Arapahoe County cast 24,801 votes which was 6.7% of the total
--The highest voter turnout was in:
+- The county results were:
+  - Jefferson County cast 38,855 votes which was 10.5% of the total
+  - Denver County cast 306,055 votes which was 82.8% of the total
+  - Arapahoe County cast 24,801 votes which was 6.7% of the total
+- The highest voter turnout was in:
   - Denver County, where 82.8% of votes were cast and 306,055 votes.
 - The candidates were:  - Casper Stockham
   - Diane DeGette
