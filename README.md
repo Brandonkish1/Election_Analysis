@@ -21,10 +21,10 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The participating counties were:
-  -Jefferson
-  -Denver
-  -Arapahoe
--The count results were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+-The county results were:
   -Jefferson County cast 38,855 votes which was 10.5% of the total
   -Denver County cast 306,055 votes which was 82.8% of the total
   -Arapahoe County cast 24,801 votes which was 6.7% of the total
